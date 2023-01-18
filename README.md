@@ -91,12 +91,10 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 ## OUTPUT:
 ### Home Page:
-![HOMEPAGE](images/home.png)
+![HOMEPAGE](/images/home.png)
 
 ### Calculations:
-![AREAOUTPUT](images/math1.png)
-
-![AREAOUTPUT](images/math2.png)
+![AREAOUTPUT](/images/math1.png)
 
 ## Result:
 Calculations are performed correctly as per the given inputs.
