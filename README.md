@@ -89,11 +89,15 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </body>
 </html>
 ```
+
 ## OUTPUT:
+
 ### Home Page:
+
 ![home](https://user-images.githubusercontent.com/119477835/213254411-f4fe6c5c-ab20-4e0c-9626-318ab108954f.png)
 
 ### Calculations:
+
 ![math1](https://user-images.githubusercontent.com/119477835/213254479-7f94d565-062f-407a-916f-1be1044d0340.png)
 
 ## Result:
