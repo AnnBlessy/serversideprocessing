@@ -94,6 +94,11 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 
 ### Home Page:
 
+
+
+
+
+
 ![home](https://user-images.githubusercontent.com/119477835/213254411-f4fe6c5c-ab20-4e0c-9626-318ab108954f.png)
 
 ### Calculations:
