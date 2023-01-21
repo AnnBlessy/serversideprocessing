@@ -14,6 +14,7 @@ Startapp 'myfirstapp'.Create a folder named 'templates' under which all html fil
 ### Step 3:
 Make the necessary changes in the settings.py and add codes in urls.py and views.py which enables the operation to take place.
 
+
 ### Step 4:
 Under templates and myfirstapp, create a html file named math.html and write the required html code for the website.
 
@@ -89,17 +90,11 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </body>
 </html>
 ```
-
 ## OUTPUT:
-
 ### Home Page:
 
-
-
-
-
-
 ![home](https://user-images.githubusercontent.com/119477835/213254411-f4fe6c5c-ab20-4e0c-9626-318ab108954f.png)
+
 
 ### Calculations:
 
